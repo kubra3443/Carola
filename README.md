@@ -18,9 +18,7 @@ AutoMapper
 FluentValidation
 MailKit (SMTP)
 HTML / CSS / Bootstrap
-
-<img width="972" height="1619" alt="44" src="https://github.com/user-attachments/assets/b45f8dd9-8597-4bf5-aed1-6130a64e465d" />
-<img width="1536" height="1024" alt="33" src="https://github.com/user-attachments/assets/0717f4ff-8486-4b46-a629-7417f3db9f2c" />
-<img width="845" height="1860" alt="22" src="https://github.com/user-attachments/assets/d35a4e15-15d2-4e4f-a52d-044a770dfeb6" />
-<img width="1528" height="1029" alt="11" src="https://github.com/user-attachments/assets/de51d679-9eb4-4b1e-8b3c-acadf49df6ba" />
-
+<img width="335" height="584" alt="resim 3" src="https://github.com/user-attachments/assets/7c18ca5c-0ec6-4365-9033-4b680e5614bd" />
+<img width="739" height="588" alt="resim 1" src="https://github.com/user-attachments/assets/5d05cdef-4d3d-4850-b2be-f15b6a94372f" />
+<img width="570" height="607" alt="resim 2" src="https://github.com/user-attachments/assets/161dccaf-f0ff-4068-8d77-5f0d9af4403f" />
+<img width="930" height="543" alt="resim 4" src="https://github.com/user-attachments/assets/394e7039-cd49-4da9-8da8-e83a0087925f" />
