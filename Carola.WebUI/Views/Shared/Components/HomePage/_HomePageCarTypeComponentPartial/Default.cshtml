@@ -1,0 +1,86 @@
+﻿@model List<ResultCategoryDto>
+
+<section class="car-type-section pt_120 pb_90 home-three">
+    <div class="container">
+        <div class="section-title centred mb_60">
+            <span class="sub-title">Araç Tipleri</span>
+            <h2 class="title">Araç Tiplerini Keşfedin</h2>
+        </div>
+
+        <div class="owl-carousel owl-theme theme_carousel"
+             data-options='{"loop": true, "margin": 24, "nav": true, "dots": false, "autoplay": true, "autoplayTimeout": 3500, "smartSpeed": 900, "responsive":{ "0":{"items":1}, "576":{"items":2}, "992":{"items":3}, "1200":{"items":4}}}'>
+            @foreach (var item in Model ?? new List<ResultCategoryDto>())
+            {
+                var imagePath = item.CategoryImage ?? string.Empty;
+                if (!string.IsNullOrWhiteSpace(imagePath) &&
+                !imagePath.StartsWith("http", StringComparison.OrdinalIgnoreCase) &&
+                !imagePath.StartsWith("/"))
+                {
+                    imagePath = imagePath.StartsWith("assets/", StringComparison.OrdinalIgnoreCase)
+                    ? $"/carola pack/carola/{imagePath}"
+                    : $"/{imagePath.TrimStart('/')}";
+                }
+
+                <div class="item">
+                    <div class="car-type-item">
+                        <div class="car-image">
+                            <img src="@imagePath" alt="@item.CategoryName">
+                            <div class="shape">
+                                <img src="/carola pack/carola/assets/images/shape/shape-2.png" alt="">
+                            </div>
+                        </div>
+                        <div class="car-name">
+                            <h6><a href="#">@item.CategoryName</a></h6>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</section>
+
+<style>
+    .car-type-section.home-three .owl-stage {
+        display: flex;
+        align-items: stretch;
+    }
+
+    .car-type-section.home-three .owl-item {
+        height: auto;
+    }
+
+    .car-type-section.home-three .item {
+        height: 100%;
+    }
+
+    .car-type-section.home-three .car-type-item {
+        max-width: none;
+        min-height: 220px;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+        .car-type-section.home-three .car-type-item .car-image {
+            height: 120px;
+            width: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 18px;
+            overflow: hidden;
+        }
+
+            .car-type-section.home-three .car-type-item .car-image img {
+                width: 150px;
+                height: 90px;
+                object-fit: contain;
+                display: block;
+                margin: 0 auto;
+            }
+
+        .car-type-section.home-three .car-type-item .car-name {
+            margin-top: auto;
+        }
+</style>
