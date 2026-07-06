@@ -18,9 +18,12 @@ MailKit / SMTP entegrasyonu ile rezervasyon onaylandığında müşteriye rezerv
 - FluentValidation
 - MailKit (SMTP)
 - HTML / CSS / Bootstrap
-<img width="335" height="584" alt="resim 3" src="https://github.com/user-attachments/assets/7c18ca5c-0ec6-4365-9033-4b680e5614bd" />
-<img width="739" height="588" alt="resim 1" src="https://github.com/user-attachments/assets/5d05cdef-4d3d-4850-b2be-f15b6a94372f" />
-<img width="913" height="605" alt="66" src="https://github.com/user-attachments/assets/7fd2d9eb-c3d1-40e4-962e-5aa79cf7f83d" />
 
-<img width="1402" height="1122" alt="55" src="https://github.com/user-attachments/assets/78f89c32-4033-415d-92d9-2866699d2cc1" />
+  <img width="1402" height="1122" alt="5" src="https://github.com/user-attachments/assets/3dde7a31-8456-4236-822d-bbf3a0253fe7" />
+<img width="913" height="605" alt="66" src="https://github.com/user-attachments/assets/8c37b0f0-e8b1-4fd2-8109-eed738df6789" />
+<img width="972" height="1619" alt="44" src="https://github.com/user-attachments/assets/fd9e06d8-6dba-4970-ad13-7ab8de45499a" />
+<img width="1536" height="1024" alt="33" src="https://github.com/user-attachments/assets/623c6dba-53f3-4e58-bea8-b73fb8004e76" />
+<img width="675" height="627" alt="2" src="https://github.com/user-attachments/assets/33505a1f-151f-4a60-b046-70dc4ec6259b" />
+<img width="1528" height="1029" alt="11" src="https://github.com/user-attachments/assets/8d6e26c3-b542-4019-b106-948e87a917ff" />
+
 
