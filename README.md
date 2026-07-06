@@ -22,5 +22,7 @@ MailKit / SMTP entegrasyonu ile rezervasyon onaylandığında müşteriye rezerv
 <img width="739" height="588" alt="resim 1" src="https://github.com/user-attachments/assets/5d05cdef-4d3d-4850-b2be-f15b6a94372f" />
 <img width="570" height="607" alt="resim 2" src="https://github.com/user-attachments/assets/161dccaf-f0ff-4068-8d77-5f0d9af4403f" />
 <img width="930" height="543" alt="resim 4" src="https://github.com/user-attachments/assets/394e7039-cd49-4da9-8da8-e83a0087925f" />
+<img width="913" height="605" alt="66" src="https://github.com/user-attachments/assets/7fd2d9eb-c3d1-40e4-962e-5aa79cf7f83d" />
+
 <img width="1402" height="1122" alt="55" src="https://github.com/user-attachments/assets/78f89c32-4033-415d-92d9-2866699d2cc1" />
 
