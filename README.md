@@ -12,12 +12,12 @@ Araç, rezervasyon, kullanıcı, kategori ve lokasyon yönetimi
 MailKit / SMTP entegrasyonu ile rezervasyon onaylandığında müşteriye rezervasyon özeti ve tek kullanımlık kupon kodu iletilmesi
 
 🛠️ Kullanılan Teknolojiler
-ASP.NET Core 6 MVC
-Entity Framework Core
-AutoMapper
-FluentValidation
-MailKit (SMTP)
-HTML / CSS / Bootstrap
+- ASP.NET Core 6 MVC
+- Entity Framework Core
+- AutoMapper
+- FluentValidation
+- MailKit (SMTP)
+- HTML / CSS / Bootstrap
 <img width="335" height="584" alt="resim 3" src="https://github.com/user-attachments/assets/7c18ca5c-0ec6-4365-9033-4b680e5614bd" />
 <img width="739" height="588" alt="resim 1" src="https://github.com/user-attachments/assets/5d05cdef-4d3d-4850-b2be-f15b6a94372f" />
 <img width="570" height="607" alt="resim 2" src="https://github.com/user-attachments/assets/161dccaf-f0ff-4068-8d77-5f0d9af4403f" />
